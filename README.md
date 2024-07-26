@@ -18,3 +18,5 @@ The following visualizations are included in the Power BI dashboard:
 - Loan Amount Distribution
 - Gender and Loan Approval Correlation
 - Education Level and Loan Approval 
+
+**Dataset Used** : https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset?resource=download 
