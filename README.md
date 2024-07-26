@@ -9,7 +9,7 @@ This project focuses on analyzing loan approval data using Power BI to identify 
 - Insights: Key findings and insights derived from the data.
 - Dashboard: A comprehensive Power BI dashboard for a holistic view of the data.
 
-![Dashboard](Screenshot (1491).png)
+![Dashboard](Screenshot%20(1491).png)
     
 ## Visualizations
 
